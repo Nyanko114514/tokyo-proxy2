@@ -20,6 +20,13 @@ If you use Google Translate, you may not understand (the translation language re
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com)
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run)
 
+
+# 今あるバグ
+
+現在、○○○○.○○/index.html(URL+/index.html)の場合、プロキシが動作しません。
+
+動作させるために、/index.htmlを消してから行きたいURLやキーワードを入力してください
+
 # renderで作成する方法　How to create with render
 
 Blueprintsからの制作はできません
