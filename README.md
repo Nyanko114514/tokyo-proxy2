@@ -20,6 +20,10 @@ If you use Google Translate, you may not understand (the translation language re
 
 # renderで作成する方法　How to create with render
 
+Blueprintsからの制作はできません
+
+Cannot be created from Blueprints
+
 作り方 ↓　(日本語版)
 
 １、このリポジトリにスターを付ける
