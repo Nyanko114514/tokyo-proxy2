@@ -4,7 +4,7 @@ Made by Nebelung
 MIT license: https://opensource.org/licenses/MIT
 */
 
-const express = require("express")
+const express = require("express") 
 const app = express()
 const fetch = require("node-fetch")
 const config = require("./config.json")
