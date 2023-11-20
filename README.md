@@ -129,6 +129,12 @@ https://service.lsapp.space/konomi
 
 �東�京�は上記のチャットサイトで活動しています 
 
+fiicenでフォローしてくれたら嬉しいです
+
+I would be happy if you could follow me on fiicen
+
+https://fiicen.jp/field/tokyo_konoMi/
+
 Tokyo is active on the above chat site.
 
 
