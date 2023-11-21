@@ -74,7 +74,7 @@ Cannot be created from Blueprints
 ※学タブ(i-filter)勢の人はrenderで作った東京プロキシ２はブロック解除になりません
 
 -----------------------------------------------------------------------------
-　# hop.ioで作成する方法　How to create on hop.io
+# hop.ioで作成する方法　How to create on hop.io
 
  作り方 ↓ (日本語版)
 
