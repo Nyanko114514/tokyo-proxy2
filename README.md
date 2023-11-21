@@ -81,7 +81,7 @@ Cannot be created from Blueprints
  １、https://hop.io
  へ行き、ログインする
 
- ２、igniteを押し、Create Deployment (Nキーでも代用化)を押す
+ ２、igniteを押し、Create Deployment (Nキーでも代用可)を押す
 
  ３、Deploy from GitHubを押す
 
